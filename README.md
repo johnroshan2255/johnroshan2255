@@ -44,40 +44,40 @@ Hello! I'm a self-taught Fullstack developer from Kerala, India, currently worki
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnroshan2255&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🚀 Featured Projects
+## 📚 Project Stats
 
 <div align="center">
-
-### E-Commerce Platform
-A full-featured online shopping platform built with Laravel, React and MySQL.
-<br>
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-<br>
-
-### Task Management App
-A collaborative task management solution with real-time updates.
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-<br>
-
-### Weather Dashboard
-A responsive weather application with location-based forecasts.
-<br>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-<br>
-
-### Mobile Fitness Tracker
-A cross-platform mobile app for tracking workouts and nutrition.
-<br>
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-<br>
-
+  
+  <a href="https://github.com/johnroshan2255?tab=repositories">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/Total%20Repositories-25+-blue?style=for-the-badge&logoColor=white&logo=repo" alt="Total Repositories"/>
+  </a>
+  
+  <a href="https://github.com/johnroshan2255?tab=repositories&q=&type=&language=javascript&sort=">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript%20Projects-10+-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Projects"/>
+  </a>
+  
+  <a href="https://github.com/johnroshan2255?tab=repositories&q=&type=&language=php&sort=">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/PHP%20Projects-8+-purple?style=for-the-badge&logo=php&logoColor=white" alt="PHP Projects"/>
+  </a>
+  
+  <a href="https://github.com/johnroshan2255?tab=repositories&q=&type=&language=react&sort=">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/React%20Projects-7+-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Projects"/>
+  </a>
+  
+  <br>
+  
+  <a href="https://github.com/johnroshan2255?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/Stars%20Earned-40+-yellow?style=for-the-badge&logo=star&logoColor=white" alt="Stars Earned"/>
+  </a>
+  
+  <a href="https://github.com/johnroshan2255?tab=repositories&q=&type=source&language=&sort=forks">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/Total%20Forks-15+-green?style=for-the-badge&logo=fork&logoColor=white" alt="Total Forks"/>
+  </a>
+  
+  <a href="https://github.com/johnroshan2255?tab=repositories&q=&type=&language=&sort=">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/Contributions-220+-blue?style=for-the-badge&logo=git-commit&logoColor=white" alt="Total Contributions"/>
+  </a>
+  
 </div>
 
 ## 🌱 Currently Learning
