@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Fullstack Developer | Laravel Specialist
 
-Hello! I'm a self-taught Fullstack developer from Kerala, India, currently working as a Laravel Developer at IOSS. I'm passionate about creating seamless user experiences and solving complex problems in web development.
+Hello! I'm John Roshan, a developer with a focus on building practical Laravel applications and small-scale DevOps solutions. I enjoy experimenting with real-time features, custom deployers, and integrating tools like Docker and Nginx into my development workflow. I’ve also started working with React and Vite to enhance front-end interfaces, and I'm always up for learning better ways to ship stable, testable apps. Constantly improving my backend skills while dipping my toes into frontend design and automation.
 
 ## 💻 Tech Stack
 
